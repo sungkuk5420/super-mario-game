@@ -6,18 +6,6 @@ Kaboom.jsを使ったスーパーマリオゲームです。
 [Link Open](https://super-mario-game.netlify.app/)
   
 
-## Getting Started / 어떻게 시작하나요? / 始め方
-### Installing / 설치 / インストール
-
-```
-npm install 
-```
-### Run / 실행 / 実行
- 
-```
-npm run start
-```
-
 ## License / 라이센스 /ライセンス
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details 
