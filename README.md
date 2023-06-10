@@ -15,7 +15,7 @@ npm install
 ### Run / 실행 / 実行
  
 ```
-node app.js
+npm run start
 ```
 
 ## License / 라이센스 /ライセンス
